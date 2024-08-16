@@ -1,4 +1,4 @@
-# GenerativeAI_Paintings
+# GenerativeAI_Paintings (Ongoing Project Under Construction)
  
 Project Setup:
 
