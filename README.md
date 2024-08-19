@@ -2,13 +2,13 @@
  
 Project Setup:
 
-[Done] Create GitHub repository and add README.md.
-[Done] Set up environment (install TensorFlow/PyTorch, other dependencies).
-[Done] Download and organize Monet dataset.
+[Done] Create a GitHub repository and add README.md.
+[Done] Set up the environment (install TensorFlow/PyTorch, other dependencies).
+[Done] Download and organize the Monet dataset.
 
 Data Preparation:
 
-Explore and visualize dataset.
+Explore and visualize the dataset.
 (Optional) Apply data augmentation.
 Prepare data pipeline for training.
 
@@ -21,8 +21,8 @@ Implement GAN training loop (alternate training for Generator and Discriminator)
 Training:
 
 Train on a small dataset subset to test setup.
-Train on full dataset, generating Monet-style images.
-Tune hyperparameters and optimize model.
+Train on the full dataset, generating Monet-style images.
+Tune hyperparameters and optimize the model.
 
 Evaluation:
 
