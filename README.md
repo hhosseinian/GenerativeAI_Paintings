@@ -1,31 +1,48 @@
-# GenerativeAI_Paintings (Ongoing Project Under Construction)
- 
-Project Setup:
+# GenerativeAI_Paintings
 
-[Done] Create a GitHub repository and add README.md.
-[Done] Set up the environment (install TensorFlow/PyTorch, other dependencies).
-[Done] Download and organize the Monet dataset.
+## Project Overview
 
-Data Preparation:
+This repository contains the code and documentation for an ongoing project focused on generating Monet-style paintings using Generative Adversarial Networks (GANs). The project is currently under construction and aims to create a model capable of generating high-quality Monet-style images.
 
-Explore and visualize the dataset.
-(Optional) Apply data augmentation.
-Prepare data pipeline for training.
+## Project Setup
 
-Model Development:
+- [x] Create a GitHub repository and add `README.md`.
+- [x] Set up the environment (install TensorFlow/PyTorch and other dependencies).
+- [x] Download and organize the Monet dataset.
 
-Define Generator and Discriminator models.
-Build and compile models (choose loss functions and optimizers).
-Implement GAN training loop (alternate training for Generator and Discriminator).
+## Data Preparation
 
-Training:
+1. Explore and visualize the dataset.
+2. (Optional) Apply data augmentation techniques.
+3. Prepare data pipeline for training.
 
-Train on a small dataset subset to test setup.
-Train on the full dataset, generating Monet-style images.
-Tune hyperparameters and optimize the model.
+## Model Development
 
-Evaluation:
+1. Define Generator and Discriminator models.
+2. Build and compile models (select appropriate loss functions and optimizers).
+3. Implement the GAN training loop (alternate training for Generator and Discriminator).
 
-Generate 7,000-10,000 Monet-style images.
-Evaluate image quality visually and with MiFID.
-Refine models based on evaluation results.
+## Training
+
+1. Train the model on a small subset of the dataset to test the setup.
+2. Train the model on the full dataset to generate Monet-style images.
+3. Tune hyperparameters and optimize model performance.
+
+## Evaluation
+
+1. Generate 7,000-10,000 Monet-style images.
+2. Evaluate image quality both visually and using MiFID metrics.
+3. Refine models based on evaluation results.
+
+## Future Work
+
+- Enhance data augmentation strategies.
+- Experiment with different GAN architectures.
+- Incorporate feedback from evaluations to improve image quality.
+
+## Contributing
+
+Feel free to contribute to this project by opening issues, submitting pull requests, or providing feedback.
+
+## License
+
