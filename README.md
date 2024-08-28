@@ -1,4 +1,7 @@
 # GenerativeAI_Paintings
+<a target="_blank" href="https://colab.research.google.com/github/hhosseinian/GenerativeAI_Paintings">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 ## Project Overview
 
